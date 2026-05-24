@@ -47,12 +47,21 @@ cv:
     Experience:
       - company: Pompeu Fabra University
         position: Teaching Assistant
-        location: Campus del Poblenou, BCN
-        start_date: 2024
-        end_date: 
-        summary: 
+        location: Poblenou, BCN
+        start_date: 2025
+        end_date:
+        summary:
         highlights:
-          - ""
+          - "TA in Video Processing and Deep Learning."
+
+      - company: Pompeu Fabra University
+        position: Predoctoral Researcher
+        location: Poblenou, BCN
+        start_date: 2024
+        end_date:
+        summary:
+        highlights:
+          - "3D Reconstruction of Prenatal Ultrasound Faces."
 
     # Volunteer:
     #   - company: People's Climate March
@@ -81,20 +90,19 @@ cv:
     #     awarder: German Physical Society
     #     summary: Awarded for outstanding scientific achievement
 
-
     Publications:
       - title: "Toward Automatic Water Pollution Analysis: A Machine Learning Approach for Water-Quality Monitoring Through Pattern Classification of Water Crystallization"
         authors:
-          - Rada, L. 
-          - Tanrıverdi, Y.B. 
+          - Rada, L.
+          - Tanrıverdi, Y.B.
           - Kara, Ö.E.
           - Hemond, E.M.
           - Tezel, U.
         publisher: Intelligent Computing Systems. ISICS 2022. Communications in Computer and Information. Science, vol 1569. Springer, Cham.
         releaseDate: 16 March 2022
         url: https://link.springer.com/chapter/10.1007/978-3-030-98457-1_9
-        summary:  
-        
+        summary:
+
       - title: "A Pixel-Based Anchor Approach for Nuclei Detection in Cervical Cytology Imaging"
         authors:
           - Russo, Ciro
@@ -103,8 +111,8 @@ cv:
           - Marrocco, Claudio
         publisher: Springer Nature Switzerland
         releaseDate: 2025
-        url: https://link.springer.com/chapter/10.1007/978-3-031-87660-8_20 
-        summary: 
+        url: https://link.springer.com/chapter/10.1007/978-3-031-87660-8_20
+        summary:
 
     Skills:
       - name: Mathematics
@@ -129,12 +137,12 @@ cv:
         summary: "Rusted."
 
       - name: Italian / Porteguese / French
-        summary: "Latin language package comes with learning Catalan. Beginner level"
+        summary: "Latin language package comes with learning Catalan. Beginner level."
 
     Interests:
       - name: Cinema
         icon: fa-solid fa-tag
-        # keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Camp movies."
 
     Certificates:
       - name: Algorithmic Toolbox
@@ -154,9 +162,9 @@ cv:
 
     Projects:
       - name: eSCANFace
-        summary: 
+        summary:
         highlights:
-        start_date: 
+        start_date:
         end_date:
 
     # References:
