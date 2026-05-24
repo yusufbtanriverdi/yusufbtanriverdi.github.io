@@ -446,8 +446,8 @@ ninja.data = [{
           section: "News",},{id: "news-looking-for-a-room-in-bcn-sparkles",
           title: 'Looking for a room in BCN! :sparkles:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-are-you-here-because-you-scanned-a-qr-code-at-upf-39-s-dtic-phd-workshop-click-here",
+          title: 'Are you here because you scanned a QR code at UPF&amp;#39;s DTIC PhD...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_workshop/";
