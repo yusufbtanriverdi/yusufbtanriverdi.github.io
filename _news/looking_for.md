@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Looking for a room in BCN! :bowtie:
+Looking for a room in BCN! :sparkles: 

@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Are you here because you scanned a QR code at UPF's DTIC PhD workshop? Click here!
+#### Are you here because you scanned a QR code at UPF's DTIC PhD workshop? Click here!
 
 ---
 
@@ -16,7 +16,7 @@ Check out the 3D demos in this page!
 
 PS: I upload my guidelines to design a poster. If you are interested in poster presentation aesthetics, find them [here](https://docs.google.com/document/d/1TQa7F8UslGIggLZ3P_ao3B4jG574nuajLBI70HFNQDU/edit?usp=sharing).
 
-#### References
+##### References
 
 <ol>
     <li>I. Sarris et al., “Standardization of fetal ultrasound biometry measurements: improving the quality and consistency of measurements,” Ultrasound in Obstet & Gyne, , Dec. 2011, doi: 10.1002/uog.8997.</li>

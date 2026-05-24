@@ -5,6 +5,4 @@ inline: true
 related_posts: false
 ---
 
-# A simple inline announcement.
-
-I succesfully defended my research proposal! :sparkles: :smile:
+I succesfully defended my research proposal! :smile:
