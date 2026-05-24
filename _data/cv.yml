@@ -83,7 +83,7 @@ cv:
 
 
     Publications:
-      - title: Toward Automatic Water Pollution Analysis: A Machine Learning Approach for Water-Quality Monitoring Through Pattern Classification of Water Crystallization
+      - title: "Toward Automatic Water Pollution Analysis: A Machine Learning Approach for Water-Quality Monitoring Through Pattern Classification of Water Crystallization"
         authors:
           - Rada, L. 
           - Tanrıverdi, Y.B. 
@@ -95,7 +95,7 @@ cv:
         url: https://link.springer.com/chapter/10.1007/978-3-030-98457-1_9
         summary:  
         
-      - title: A Pixel-Based Anchor Approach for Nuclei Detection in Cervical Cytology Imaging
+      - title: "A Pixel-Based Anchor Approach for Nuclei Detection in Cervical Cytology Imaging"
         authors:
           - Russo, Ciro
           - Tanriverdi, Y.B.
