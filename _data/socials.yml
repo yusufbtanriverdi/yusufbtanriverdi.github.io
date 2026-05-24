@@ -9,6 +9,6 @@ scholar_userid: kZtYpaUAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.upf.edu/documents/2959609/111346215/bcnmedtech.png # can be png, svg, jpg
+  logo: https://www.upf.edu/documents/7283915/7376028/simbol.png/50ed58bf-66df-ef68-e34e-ac1b3983c2f7? # can be png, svg, jpg
   title: BCNMedTech
   url: https://www.upf.edu/web/bcn-medtech
