@@ -1,12 +1,10 @@
 ---
 layout: post
-title: A long announcement with details
+title: Are you here because you scanned a QR code at UPF's DTIC PhD workshop? Click here!
 date: 2026-05-24 09:29:00-0000
 inline: false
 related_posts: false
 ---
-
-#### Are you here because you scanned a QR code at UPF's DTIC PhD workshop? Click here!
 
 ---
 
