@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
----
-
 _The numbered references are at the end._
 
 Check out the 3D demos in this page!
