@@ -8,7 +8,19 @@ related_posts: false
 
 _The numbered references are at the end._
 
-Check out the 3D demos in this [post]({% link _posts/2026-05-20-3d_demos.md %})! You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf).
+You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf).
+
+<iframe 
+  src="{{ '/assets/html/relativity.html' | relative_url }}" 
+  width="100%" 
+  height="500px" 
+  frameborder="0" 
+  scrolling="auto" 
+  style="border: 1px solid #ccc; border-radius: 8px;">
+</iframe>
+
+Kolay gelsin[^*]!
+Yusuf
 
 PS: I upload my guidelines to design a poster. If you are interested in poster presentation aesthetics, find them [here](https://docs.google.com/document/d/1TQa7F8UslGIggLZ3P_ao3B4jG574nuajLBI70HFNQDU/edit?usp=sharing).
 
@@ -25,3 +37,11 @@ PS: I upload my guidelines to design a poster. If you are interested in poster p
     <li> F. M. Sukno et al., “Comparing 3D Descriptors for Local Search of Craniofacial Landmarks,” in Advances in Visual Computing, Berlin, Heidelberg: Springer, 2012, doi: 10.1007/978-3-642-33191-6_10. </li>
 
 </ol>
+
+---
+
+[^*]:
+    A Turkish phrase for wishing good luck. It literally means "May it come easy to you," and is used for
+    anyone who is working. Perhaps "Keep up the good work" is the closest approximation, but it's used
+    at the beginning of someone working. It expresses the genuine hope that the person you say it to is
+    successful in their endeavor, as well as recognizing that the task may be difficult for them.
