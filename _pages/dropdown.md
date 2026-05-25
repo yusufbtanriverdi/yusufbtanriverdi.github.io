@@ -8,6 +8,9 @@ children:
   - title: bookshelf
     permalink: /books/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: letterboxd
+    permalink: /movies/
+  # - title: divider
+  # - title: blog
+  #   permalink: /blog/
 ---

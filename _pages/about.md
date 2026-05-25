@@ -39,3 +39,5 @@ To get to know me better, here is a list of things I like to do while I wait for
 - Learn languages
 - Watch long Youtube video essays about one or more of followings.
   - Mediterranean empires, mythology, Ireland, urban planning...
+
+> I do not consent to my work being used for militaristic, racist, misogynist, queerphobic, or any other discriminatory purposes. Everything presented in this blog reflects my personal opinions and perspectives and does not necessarily represent those of the institute at which I am employed.
