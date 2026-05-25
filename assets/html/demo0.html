@@ -12916,15 +12916,13 @@
                           ? ((e.cellOffset += t.primitives[n].getCABO().createVBO(a[n].cells, a[n].inRep, s, e, t.selectionWebGLIdsToVTKIds)),
                             (e.vertexOffset += t.primitives[n].getCABO().getElementCount()))
                           : d
-                            ? t.primitives[n]
-                                .getCABO()
-                                .createVBO(a[n].cells, a[n].inRep, Jd.WIREFRAME, {
-                                  ...e,
-                                  tcoords: null,
-                                  colors: null,
-                                  haveCellScalars: !1,
-                                  haveCellNormals: !1,
-                                })
+                            ? t.primitives[n].getCABO().createVBO(a[n].cells, a[n].inRep, Jd.WIREFRAME, {
+                                ...e,
+                                tcoords: null,
+                                colors: null,
+                                haveCellScalars: !1,
+                                haveCellNormals: !1,
+                              })
                             : t.primitives[n].releaseGraphicsResources();
                       (t.renderable.getPopulateSelectionSettings() && t.renderable.setSelectionWebGLIdsToVTKIds(t.selectionWebGLIdsToVTKIds),
                         (t.VBOBuildString = u));
@@ -25390,16 +25388,14 @@
                     ((t.format = n.format ? n.format : "rgba8unorm"),
                       (t.mipLevel = n.mipLevel ? n.mipLevel : 0),
                       (t.usage = n.usage ? n.usage : GPUTextureUsage.TEXTURE_BINDING | GPUTextureUsage.COPY_DST),
-                      (t.handle = t.device
-                        .getHandle()
-                        .createTexture({
-                          size: [t.width, t.height, t.depth],
-                          format: t.format,
-                          usage: t.usage,
-                          label: t.label,
-                          dimension: r,
-                          mipLevelCount: t.mipLevel + 1,
-                        })));
+                      (t.handle = t.device.getHandle().createTexture({
+                        size: [t.width, t.height, t.depth],
+                        format: t.format,
+                        usage: t.usage,
+                        label: t.label,
+                        dimension: r,
+                        mipLevelCount: t.mipLevel + 1,
+                      })));
                   }),
                   (e.assignFromHandle = (e, n, r) => {
                     ((t.device = e),

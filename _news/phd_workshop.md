@@ -11,7 +11,7 @@ _The numbered references are at the end._
 You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf).
 
 <iframe 
-  src="{{ '/assets/html/demo0.html' | relative_url }}" 
+  src="{{ '/assets/html/10062906_aL.html' | relative_url }}" 
   width="100%" 
   height="500px" 
   frameborder="0" 
