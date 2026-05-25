@@ -19,10 +19,9 @@ You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWo
   style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
 
-Kolay gelsin[^1]!
-Yusuf
-
 PS: I upload my guidelines to design a poster. If you are interested in poster presentation aesthetics, find them [here](https://docs.google.com/document/d/1TQa7F8UslGIggLZ3P_ao3B4jG574nuajLBI70HFNQDU/edit?usp=sharing).
+
+Kolay gelsin[^1]!
 
 ##### **References**
 
@@ -40,7 +39,8 @@ PS: I upload my guidelines to design a poster. If you are interested in poster p
 
 ---
 
-[^1]: A Turkish phrase for wishing good luck. It literally means "May it come easy to you," and is used for
+[^1]:
+    A Turkish phrase for wishing good luck. It literally means "May it come easy to you," and is used for
     anyone who is working. Perhaps "Keep up the good work" is the closest approximation, but it's used
     at the beginning of someone working. It expresses the genuine hope that the person you say it to is
     successful in their endeavor, as well as recognizing that the task may be difficult for them.
