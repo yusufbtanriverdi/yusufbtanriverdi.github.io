@@ -11,7 +11,7 @@ _The numbered references are at the end._
 You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf).
 
 <iframe 
-  src="{{ '/assets/html/relativity.html' | relative_url }}" 
+  src="{{ '/assets/html/demo0.html' | relative_url }}" 
   width="100%" 
   height="500px" 
   frameborder="0" 
@@ -19,13 +19,10 @@ You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWo
   style="border: 1px solid #ccc; border-radius: 8px;">
 </iframe>
 
-Kolay gelsin[^*]!
+Kolay gelsin[^1]!
 Yusuf
 
 PS: I upload my guidelines to design a poster. If you are interested in poster presentation aesthetics, find them [here](https://docs.google.com/document/d/1TQa7F8UslGIggLZ3P_ao3B4jG574nuajLBI70HFNQDU/edit?usp=sharing).
-
-Testing a footnote here.[^test]
-
 
 ##### **References**
 
@@ -43,9 +40,7 @@ Testing a footnote here.[^test]
 
 ---
 
-[^test]: If you can see this at the bottom of the page, the system works!
-
-[^*]: A Turkish phrase for wishing good luck. It literally means "May it come easy to you," and is used for
+[^1]: A Turkish phrase for wishing good luck. It literally means "May it come easy to you," and is used for
     anyone who is working. Perhaps "Keep up the good work" is the closest approximation, but it's used
     at the beginning of someone working. It expresses the genuine hope that the person you say it to is
     successful in their endeavor, as well as recognizing that the task may be difficult for them.
