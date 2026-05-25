@@ -53,7 +53,7 @@ cv:
         end_date:
         summary:
         highlights:
-          - "TA in Video Processing and Deep Learning."
+          - "TA in Video Processing and Deep Learning courses."
 
       - company: Pompeu Fabra University
         position: Predoctoral Researcher
@@ -64,16 +64,23 @@ cv:
         highlights:
           - "3D Reconstruction of Prenatal Ultrasound Faces."
 
-    # Volunteer:
-    #   - company: People's Climate March
-    #     position: Lead Organizer
-    #     location: Zurich, Switzerland
-    #     start_date: 2014-04-01
-    #     end_date: 2015-07-01
-    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #     highlights:
-    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #       - "Men of the year 2014 by Time magazine"
+      - company: MarketersTech
+        position: Jr. Data Scientist
+        location:
+        start_date: 2021
+        end_date: 2023
+        summary:
+        highlights:
+          - "KPI analysis."
+
+    Volunteer:
+      - company: İstanbul Gönüllüleri
+        position: Special Ed. Tutor
+        location: Istanbul, Turkey
+        start_date: 2020
+        end_date: 2021
+        summary:
+        highlights:
 
     # Awards:
     #   - title: Nobel Prize in Physics
@@ -122,10 +129,10 @@ cv:
 
     Languages:
       - name: Turkish
-        summary: "Native speaker"
+        summary: "Native speaker."
 
       - name: English
-        summary: "Academic competency, fluent"
+        summary: "Academic competency, fluent."
 
       - name: Catalan
         summary: "Intermediate. Studying actively."
@@ -136,13 +143,25 @@ cv:
       - name: German
         summary: "Rusted."
 
-      - name: Italian / Porteguese / French
-        summary: "Latin language package comes with learning Catalan. Beginner level."
+      - name: Italian, Portuguese, French
+        summary: "Latin package that comes with learning Catalan. Beginner level."
 
     Interests:
       - name: Cinema
         icon: fa-solid fa-tag
         keywords: "Camp movies."
+
+      - name: Drawing
+        icon: fa-solid fa-tag
+        keywords: "Urban sketching. Landscapes. Comics."
+
+      - name: Dungeons and Dragons
+        icon: fa-solid fa-tag
+        keywords: "Yes, the game from Stranger Things..."
+
+      - name: Theatre
+        icon: fa-solid fa-tag
+        keywords: "Clown. Stand-up. Puppets."
 
     Certificates:
       - name: Algorithmic Toolbox
@@ -150,11 +169,40 @@ cv:
         issuer: Coursera
         icon: fa-solid fa-location-dot
 
-      # - name: Quantum Computing
-      #   date: 2018-01-01
-      #   issuer: Stanford University
-      #   icon: fa-solid fa-tag
+      - name: Generative AI with Diffusion Models
+        date: 2025-01
+        issuer: NVIDIA
+        icon: fa-solid fa-location-dot
 
+      - name: Mindful Mundus Ambassador Program
+        date: 2023-10
+        issuer: Mindful Mundus Mental Health Project
+        icon: fa-solid fa-location-dot
+
+      - name: Certificate of Participation
+        date: 2023-07
+        issuer: Eastern European Machine Learning Summer School
+        icon: fa-solid fa-location-dot
+
+      - name: Work Experience Discover
+        date: 2021-10
+        issuer: IAESTE
+        icon: fa-solid fa-location-dot
+
+      - name: Introduction to numerical analysis
+        date: 2020
+        issuer: National Research University Higher School of Economics
+        icon: fa-solid fa-location-dot
+
+      - name: Computational Neuroscience
+        date: 2022-03
+        issuer: Coursera
+        icon: fa-solid fa-location-dot
+
+      - name: Fundamentals of Reinforcement Learning
+        date: 2022-09
+        issuer: Coursera
+        icon: fa-solid fa-location-dot
       # - name: Quantum Information
       #   date: 2018-01-01
       #   issuer: Stanford University
@@ -164,8 +212,8 @@ cv:
       - name: eSCANFace
         summary:
         highlights:
-        start_date:
-        end_date:
+        start_date: 2024
+        end_date: 2025
 
     # References:
     #   - name: Professor John Doe
