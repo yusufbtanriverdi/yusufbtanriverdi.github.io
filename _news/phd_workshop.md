@@ -16,8 +16,15 @@ You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWo
     <h5 style="margin-top: 0; border-bottom: 2px solid #E9A76E; padding-bottom: 5px;">Select Landmark</h5>
     <ul id="landmark-list" style="list-style: none; padding: 0; margin: 0;">
       <li class="landmark-item active" data-file="10062906_enL.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">enL</li>
-      <li class="landmark-item" data-file="demo0.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; color: #555; transition: 0.2s;">n</li>
-      <li class="landmark-item" data-file="relativity.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; color: #555; transition: 0.2s;">exL</li>
+      <li class="landmark-item active" data-file="10062906_exL.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">exL</li>
+      <li class="landmark-item active" data-file="10062906_n.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">n</li>
+      <li class="landmark-item active" data-file="10062906_aL.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">aL</li>
+      <li class="landmark-item active" data-file="10062906_aR.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">aR</li>
+      <li class="landmark-item active" data-file="10062906_cphR.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">cphR</li>
+      <li class="landmark-item active" data-file="10062906_li.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">li</li>
+      <li class="landmark-item active" data-file="10062906_prn.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">prn</li>
+      <li class="landmark-item active" data-file="10062906_sl.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">sl</li>
+      <li class="landmark-item active" data-file="10062906_sn.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">sn</li>
       </ul>
   </div>
 
