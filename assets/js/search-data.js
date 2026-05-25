@@ -58,6 +58,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/movies/";
               },
+            },{id: "dropdown-cities",
+              title: "cities",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/cities/";
+              },
             },{id: "post-3d-demos",
         
           title: "3d_demos",
@@ -69,11 +76,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/3d_demos/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-circe",
+          title: 'Circe',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/circe/";
             },},{id: "news-i-succesfully-defended-my-research-proposal-smile",
           title: 'I succesfully defended my research proposal! :smile:',
           description: "",
