@@ -10,14 +10,69 @@ _The numbered references are at the end._
 
 You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf).
 
-<iframe 
-  src="{{ '/assets/html/10062906_enL.html' | relative_url }}" 
-  width="100%" 
-  height="500px" 
-  frameborder="0" 
-  scrolling="auto" 
-  style="border: 1px solid #ccc; border-radius: 8px;">
-</iframe>
+<div class="heatmap-dashboard" style="display: flex; gap: 20px; margin: 20px 0; font-family: system-ui, -apple-system, sans-serif; align-items: flex-start;">
+  
+  <div class="landmark-legend" style="flex: 1; min-width: 200px; max-height: 500px; overflow-y: auto; border-right: 1px solid #eee; padding-right: 15px;">
+    <h5 style="margin-top: 0; border-bottom: 2px solid #E9A76E; padding-bottom: 5px;">Select Landmark</h5>
+    <ul id="landmark-list" style="list-style: none; padding: 0; margin: 0;">
+      <li class="landmark-item active" data-file="10062906_enL.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; background-color: #E9A76E; color: white; font-weight: 500; transition: 0.2s;">enL</li>
+      <li class="landmark-item" data-file="demo0.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; color: #555; transition: 0.2s;">n</li>
+      <li class="landmark-item" data-file="relativity.html" style="padding: 8px 12px; margin-bottom: 5px; border-radius: 4px; cursor: pointer; color: #555; transition: 0.2s;">exL</li>
+      </ul>
+  </div>
+
+  <div class="heatmap-display" style="flex: 3; width: 100%;">
+    <iframe 
+      id="active-html-viewer"
+      src="{{ '/assets/html/10062906_enL.html' | relative_url }}" 
+      width="100%" 
+      height="500px" 
+      frameborder="0" 
+      scrolling="auto" 
+      style="border: 1px solid #ccc; border-radius: 8px;">
+    </iframe>
+  </div>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const items = document.querySelectorAll(".landmark-item");
+  const iframe = document.getElementById("active-html-viewer");
+  
+  // Base path provided by Jekyll environment context
+  const baseHtmlPath = "{{ '/assets/html/' | relative_url }}";
+
+  items.forEach(item => {
+    // Add hover states purely via JavaScript to keep Markdown styles self-contained
+    item.addEventListener("mouseenter", () => {
+      if(!item.classList.contains("active")) item.style.backgroundColor = "#f5f5f5";
+    });
+    item.addEventListener("mouseleave", () => {
+      if(!item.classList.contains("active")) item.style.backgroundColor = "transparent";
+    });
+
+    item.addEventListener("click", () => {
+      // 1. Reset previous active item styling
+      const activeItem = document.querySelector(".landmark-item.active");
+      if (activeItem) {
+        activeItem.classList.remove("active");
+        activeItem.style.backgroundColor = "transparent";
+        activeItem.style.color = "#555";
+      }
+
+      // 2. Set newly clicked item styling
+      item.classList.add("active");
+      item.style.backgroundColor = "#E9A76E";
+      item.style.color = "white";
+
+      // 3. Construct clean path target and reload iframe contents smoothly
+      const targetFile = item.getAttribute("data-file");
+      iframe.src = baseHtmlPath + targetFile;
+    });
+  });
+});
+</script>
 
 PS: I upload my guidelines to design a poster. If you are interested in poster presentation aesthetics, find them [here](https://docs.google.com/document/d/1TQa7F8UslGIggLZ3P_ao3B4jG574nuajLBI70HFNQDU/edit?usp=sharing).
 
