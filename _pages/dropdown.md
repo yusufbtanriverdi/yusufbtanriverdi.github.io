@@ -10,6 +10,10 @@ children:
   - title: divider
   - title: letterboxd
     permalink: /movies/
+  - title: divider
+  - title: cities
+    permalink: /cities/
+  - title: divider
   # - title: divider
   # - title: blog
   #   permalink: /blog/

@@ -8,7 +8,8 @@ related_posts: false
 
 _The numbered references are at the end._
 
-You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf).
+You can find the final version of the poster [here](/assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf). <span style="color:red">
+_Do you want to get some Turkish munchies? Do you think you can beat my model? Find me, play the game of landmarking, earn some cookies!_ </span>
 
 <div class="heatmap-dashboard" style="display: flex; gap: 20px; margin: 20px 0; font-family: system-ui, -apple-system, sans-serif; align-items: flex-start;">
   
