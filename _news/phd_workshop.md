@@ -24,6 +24,9 @@ Yusuf
 
 PS: I upload my guidelines to design a poster. If you are interested in poster presentation aesthetics, find them [here](https://docs.google.com/document/d/1TQa7F8UslGIggLZ3P_ao3B4jG574nuajLBI70HFNQDU/edit?usp=sharing).
 
+Testing a footnote here.[^test]
+
+
 ##### **References**
 
 <ol>
@@ -40,8 +43,9 @@ PS: I upload my guidelines to design a poster. If you are interested in poster p
 
 ---
 
-[^*]:
-    A Turkish phrase for wishing good luck. It literally means "May it come easy to you," and is used for
+[^test]: If you can see this at the bottom of the page, the system works!
+
+[^*]: A Turkish phrase for wishing good luck. It literally means "May it come easy to you," and is used for
     anyone who is working. Perhaps "Keep up the good work" is the closest approximation, but it's used
     at the beginning of someone working. It expresses the genuine hope that the person you say it to is
     successful in their endeavor, as well as recognizing that the task may be difficult for them.
