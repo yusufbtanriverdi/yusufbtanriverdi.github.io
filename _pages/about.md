@@ -30,7 +30,7 @@ I am Yusuf, born and raised in Istanbul, Turkey. After 22 years of consideration
 
 To get to know me better, here is a list of things I like to do while I wait for my cluster to finish model training:
 
-- See a random old movie that no one's heard of
+- See a random old movie
 - Draw landscapes
 - Build in [Cities: Skylines II](https://www.paradoxinteractive.com/games/cities-skylines-ii/about)
 - Dream about a [solarpunk](https://en.wikipedia.org/wiki/Solarpunk) future
