@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+**[Are you here because you scanned a QR code at UPF's DTIC PhD workshop? Click here!](news/phd_workshop)**
+
 Benvingut!
 
 I am Yusuf, born and raised in Istanbul, Turkey. After 22 years of consideration (I am 26, for reference) and obtaining my degree of triple-E from Bahcesehir Uni, I decided to move abroad in 2022. I have lived in France, Italy and Spain. I got my [EMJMD](https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters) in [Medical Imaging Applications](https://maiamaster.udg.edu/). As I fell in love with Barcelona during my thesis internship, I started my PhD at UPF's one and only [BCNMedTech](https://www.upf.edu/web/bcn-medtech). I am currently conducting research on reconstruction of 3D ultrasound prenatal faces (which I call 3DUPF for short, carelessly) under supervision of Prof. Gemma Piella and Federico Sukno.

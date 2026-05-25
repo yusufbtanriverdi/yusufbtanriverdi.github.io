@@ -8,7 +8,7 @@ related_posts: false
 
 _The numbered references are at the end._
 
-Check out the 3D demos in this page!
+Check out the 3D demos in this [post](posts/3d_demos)! You can find the final version of the poster [here](assets/pdf/tanriverdi_phdWorkshop_Poster_final.pdf).
 
 PS: I upload my guidelines to design a poster. If you are interested in poster presentation aesthetics, find them [here](https://docs.google.com/document/d/1TQa7F8UslGIggLZ3P_ao3B4jG574nuajLBI70HFNQDU/edit?usp=sharing).
 

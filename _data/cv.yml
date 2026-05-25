@@ -64,6 +64,15 @@ cv:
         highlights:
           - "3D Reconstruction of Prenatal Ultrasound Faces."
 
+      - company: ISGlobal
+        position: Thesis Intern
+        location: Barcelonata, BCN
+        start_date: 2021
+        end_date: 2023
+        summary:
+        highlights:
+          - "2D Ultrasound technology for Uveitis diagnosis."
+
       - company: MarketersTech
         position: Jr. Data Scientist
         location:
