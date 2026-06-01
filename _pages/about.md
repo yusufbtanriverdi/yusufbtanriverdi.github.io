@@ -41,5 +41,7 @@ To get to know me better, here is a list of things I like to do while I wait for
   - Mediterranean empires, mythology, Ireland, urban planning...
 
 ---
-<small> I do not consent to my work being used for militaristic, racist, misogynist, queerphobic, or any other discriminatory purposes. Everything presented in this blog reflects my personal opinions and perspectives and does not necessarily represent those of the institute at which I am employed. </small>
+<p style="font-size:0.85em; line-height:1.4; opacity:0.8; margin-top: 1rem;">
+  I do not consent to my work being used for militaristic, racist, misogynist, queerphobic, or any other discriminatory purposes. Everything presented in this blog reflects my personal opinions and perspectives and does not necessarily represent those of the institute at which I am employed.
+</p>
 
