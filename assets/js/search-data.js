@@ -65,18 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/cities/";
               },
-            },{id: "post-3d-demos",
-        
-          title: "3d_demos",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/3d_demos/";
-          
-        },
-      },{id: "books-circe",
+            },{id: "books-circe",
           title: 'Circe',
           description: "",
           section: "Books",handler: () => {
